@@ -2,9 +2,9 @@ package Exercicio1;
 
 public abstract class opcoes {
 
-    protected arraySortStrategy sort;a
+    protected arraySortStrategy sort;
 
-    public int[] metodo(int vetor[]) {return sort.metodo(vetor[])};
+    public int[] metodo(int vetor[]) {return sort.metodo(vetor);};
 
     public arraySortStrategy getSort() {
         return sort;
