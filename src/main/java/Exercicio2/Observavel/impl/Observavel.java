@@ -16,7 +16,7 @@ public class Observavel implements iObservavel {
 
     @Override
     public void registroObservador(Observador obs) {
-        contadores.add();
+        contadores.add(obs);
     }
 
     @Override
@@ -46,7 +46,7 @@ public class Observavel implements iObservavel {
         } else if (tipo.equals("Pares")) {
             System.out.println("Número de palavras com total de caracteres par:");
             this.num = num;
-        } else if ("Maiusculas") {
+        } else if (tipo.equals("Maiusculas")) {
             System.out.println("Número de palavras que começam com a letra maíuscula:");
             this.num = num;
         }
