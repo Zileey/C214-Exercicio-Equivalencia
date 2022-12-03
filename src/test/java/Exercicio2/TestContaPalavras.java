@@ -15,7 +15,7 @@ public class TestContaPalavras {
     public void testeContadores(){
         Observavel contadores = new Observavel();
         Observador obs1 = new Observador(1);
-        contadores.notificaObservadores(obs1);
+        contadores.registroObservador(obs1);
         assertTrue(!contadores.getContadores().isEmpty());
     }
 
