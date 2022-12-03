@@ -8,10 +8,10 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/Exercicio1/usandoBubble.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Exercicio1/usandoInsertion.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Exercicio1/usandoSelection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Exercicio2/TestContaPalavras.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Exercicio1/opcoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exercicio1/opcoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Exercicio2/TestContaPalavras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Exercicio2/TestContaPalavras.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
